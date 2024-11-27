@@ -12,11 +12,12 @@
 ░      ░     ░   ▒     ░░   ░  ▒ ░░ ░ ░ ▒  
        ░         ░  ░   ░      ░      ░ ░ 
 ```
----
+
 
 ### 👀 **Profile Views** 👀:
 ![Profile Views](https://img.shields.io/badge/Profile_Views-3402-FFD700?style=flat&logo=github&logoColor=black)
 
+---
 
 ### 🛠 Languages and Tools 🛠:
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=F7CD3C)
