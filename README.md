@@ -14,7 +14,7 @@
 ```
 
 ### 👀 **Profile Views** 👀:
-![Profile Views](https://img.shields.io/badge/Profile_Views-7600-FFD700?style=flat&logo=github&logoColor=black)
+![Profile Views](https://img.shields.io/badge/Profile_Views-3402-FFD700?style=flat&logo=github&logoColor=black)
 
 
 ### 🛠 Languages and Tools 🛠:
