@@ -22,6 +22,9 @@
 
 ![Malware Developer](https://img.shields.io/badge/Malware%20Developer-💀-008f11?style=flat&logo=virustotal&logoColor=white&labelColor=004400)
 
+![Reverse Engineer](https://img.shields.io/badge/Reverse%20Engineer-🔍-purple?style=flat&logo=radare&logoColor=white&labelColor=4B0082)
+
+
 
 
 
