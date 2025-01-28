@@ -17,7 +17,8 @@
 
 ### 👀 **Profile Views** 👀:
 ![Profile Views](https://img.shields.io/badge/Profile_Views-3402-FFD700?style=flat&logo=github&logoColor=black)
-![Pentester Verificado](https://img.shields.io/badge/Pentester%20Verificado-%E2%9C%94%EF%B8%8F-red?style=flat&logo=tryhackme&logoColor=white&labelColor=8B0000&color=008000)
+![Pentester Verificado](https://img.shields.io/badge/Pentester%20Verificado-%E2%9C%94%EF%B8%8F-red?style=flat&logo=tryhackme&logoColor=white&labelColor=8B0000&color=008000)![Malware Developer](https://img.shields.io/badge/Malware%20Developer-💀-008f11?style=flat&logo=virustotal&logoColor=white&labelColor=004400)
+
 
 
 
