@@ -16,7 +16,7 @@
 
 
 ### 👀 **Profile Views** 👀:
-![Profile Views](https://img.shields.io/badge/Profile_Views-3402-FFD700?style=flat&logo=github&logoColor=black)
+![Profile Views](https://img.shields.io/badge/Profile_Views-12034-FFD700?style=flat&logo=github&logoColor=black)
 
 ![Pentester Verificado](https://img.shields.io/badge/Pentester%20Verificado-%E2%9C%94%EF%B8%8F-red?style=flat&logo=tryhackme&logoColor=white&labelColor=8B0000&color=008000)
 
