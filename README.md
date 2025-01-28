@@ -22,7 +22,8 @@
 
 ![Malware Developer](https://img.shields.io/badge/Malware%20Developer-💀-008f11?style=flat&logo=virustotal&logoColor=white&labelColor=004400)
 
-![CEO Poisonous](https://img.shields.io/badge/CEO%20Poisonous-🐍-black?style=flat&logo=skull&logoColor=white&labelColor=4B0082&color=8B0000)
+![Team Poisonous](https://img.shields.io/badge/Team%20Poisonous-🧪-ff69b4?style=flat&logo=hackster&logoColor=white&labelColor=4d004d)
+
 
 
 
